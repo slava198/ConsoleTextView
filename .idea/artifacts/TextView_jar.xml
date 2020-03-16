@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TextView:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TextView_jar</output-path>
+    <root id="archive" name="TextView.jar">
+      <element id="module-output" name="TextView" />
+    </root>
+  </artifact>
+</component>
